@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+    background-color: rgb(8, 8, 177);
+    color: white;
+}
+header{
+    background-color: rgb(8, 8, 177);
+    color:gray;
+    border: 1px solid rgb(8, 8, 177);
+    border-radius: 20px;
+    padding: 10px;
+}
+h1{
+    color:blueviolet;
+    font-weight:normal;
+}
+footer p{
+    background-color: rgb(5, 221, 5);
+    padding:5px;
+}
+nav a{ 
+   text-decoration: none;
+   border-radius: 10px;
+background-color: blue;
+    color:white;
+    padding:3px;
+}
+.kaban{
+    background-color:rgb(179, 173, 173);
+    color:rgb(106, 106, 255);
+
+}
+img,p{
+    background-color:rgb(160, 160, 10);
+}
+.al{
+    
+    
+}
+.all{
+    border:2px solid blue;
+    padding:5px;
+   
+
+}
+.alll{
+    border: 2px solid blue;
+    padding: 5px;
+
+}
